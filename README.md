@@ -1,4 +1,4 @@
-## ☕ E-commerce Coffee
+## E-commerce Coffee
 
 O **E-commerce Coffee** é um projeto de cafeteria que permite ao cliente **realizar seu pedido online antes de chegar à loja**. Dessa forma, ao chegar ao estabelecimento, seu pedido já estará preparado, proporcionando mais praticidade e reduzindo o tempo de espera.
 
