@@ -6,6 +6,6 @@ O projeto foi desenvolvido inicialmente utilizando **HTML5 e CSS3 puro**, com fo
 
 O objetivo foi colocar em prática conceitos de **estruturação semântica, estilização, responsividade e criação de layouts**, desenvolvendo uma experiência simples e intuitiva para o cliente.
 
-### 🚀 Próximos passos
+### Próximos passos
 
 Este projeto representa a primeira etapa da ideia. **Em breve, pretendo desenvolver uma nova versão utilizando JavaScript, banco de dados e outras tecnologias**, transformando o projeto em uma aplicação mais completa e funcional, capaz de simular o funcionamento real de uma cafeteria com pedidos online.
